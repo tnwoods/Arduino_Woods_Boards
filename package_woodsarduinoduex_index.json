@@ -1,0 +1,58 @@
+{
+	"packages":
+	[
+		{
+		 "name": "woods_arduino_due_x",
+		 "maintainer": "Woods Arduino",
+		 "websiteURL": "http://lasp.colorado.edu/home/minxss",
+		 "email": "tom.woods@lasp.colorado.edu",
+		 "platforms":
+		 [
+		 	{
+		 	 "name": "Woods Arduino Due Board",
+		 	 "architecture": "samd",
+		 	 "version": "1.1.1",
+		 	 "category": "Contributed",
+		 	 "url": "https://www.dropbox.com/s/l5ubtphcoycrlvh/woods_arduino_due_x-1.1.1.zip",
+		 	 "archivefileName": "woods_arduino_due_x-1.1.1.zip",
+		 	 "checksum": "SHA-256:32bd7719b693aa0015c4861973151dc052ffd0588720eb154702cfbacbdeea67",
+		 	 "size": "42397748",
+		 	 "boards":
+		 	 [
+		 	 	{
+		 	 	 "name": "Woods Arduino Due"
+		 	 	}
+		 	 ],
+		 	 "toolsDependencies":
+		 	 [
+		 		{
+				  "packager": "arduino",
+				  "name": "arm-none-eabi-gcc",
+				  "version": "7-2017q4"
+				},
+				{
+				  "packager": "arduino",
+				  "name": "bossac",
+				  "version": "1.8.0-48-gb176eee"
+				},
+				{
+				  "packager": "arduino",
+				  "name": "openocd",
+				  "version": "0.10.0-arduino9"
+				},
+				{
+				  "packager": "arduino",
+				  "name": "CMSIS",
+				  "version": "4.5.0"
+				},
+				{
+				  "packager": "arduino",
+				  "name": "CMSIS-Atmel",
+				  "version": "1.2.0"
+				}
+			  ]
+			}
+		 ]
+    	}
+ 	]
+}
