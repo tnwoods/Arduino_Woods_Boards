@@ -3,9 +3,9 @@
   [
     {
       "name": "woodslasp",
-      "maintainer": "LASP T. Woods",
-      "websiteURL": "https://lasp.colorado.edu",
-      "email" : "tom.woods@lasp.colorado.edu",
+      "maintainer": "LASP Tom Woods",
+      "websiteURL": "http://lasp.colorado.edu",
+      "email": "tom.woods@lasp.colorado.edu",
       "platforms":
       [
         {
