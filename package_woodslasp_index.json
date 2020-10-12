@@ -13,7 +13,7 @@
           "architecture": "samd",
           "version": "1.0.5",
           "category": "Contributed",
-          "url": "https://github.com/tnwoods/Arduino_Woods_Boards/WoodsLASP_Power_Processor_Board-1.0.5.zip",
+          "url": "https://github.com/tnwoods/Arduino_Woods_Boards/blob/master/WoodsLASP_Power_Processor_Board-1.0.5.zip",
           "archiveFileName": "WoodsLASP_Power_Processor_Board-1.0.5.zip",
           "checksum": "SHA-256:23515cfdbc99331b799aad63d8a620e1bdd704c6cef28400db81e2be2622f593",
           "size": "662899",
