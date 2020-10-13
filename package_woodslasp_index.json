@@ -1,0 +1,60 @@
+{
+  "packages":
+  [
+    {
+      "name": "WoodsLASP",
+      "maintainer": "LASP Tom Woods",
+      "websiteURL": "http://lasp.colorado.edu",
+      "email": "tom.woods@lasp.colorado.edu",
+      "platforms":
+      [
+        {
+          "name": "WoodsLASP SAMD21 Boards (depends on Arduino SAMD Boards 1.8.1)",
+          "architecture": "samd",
+          "version": "1.0.5",
+          "category": "Contributed",
+          "url": "https://github.com/tnwoods/Arduino_Woods_Boards/raw/master/WoodsLASP_samd-1.0.5.zip",
+          "archiveFileName": "WoodsLASP_Power_Processor_Board-1.0.5.zip",
+          "checksum": "SHA-256:a1736f7cbc426d766111b1279e2edce2afdcb9862d33a7e8498e72beafd1dbf5",
+          "size": "666129",
+          "boards": [
+            {
+              "name": "WoodsLASP Power Processor Board"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.9.0-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        }
+      ],
+      "tools":
+      [
+      ]
+    }
+  ]
+}
